@@ -82,3 +82,10 @@
 
 #### My Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyasar022&theme=tokyonight)
+
+### Github Stats
+
+<img alt="Yasar khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanyasar022&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+<br />
+<img alt="Yasar khan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&theme=dark" />
+
