@@ -1,6 +1,6 @@
 ## Hi there, I'm Yasar Arfat
 
-### I'm a BCA Student (Final year) , MERN stack Developer.
+### I'm a BCA Student (Final year) , Full stack Developer.
 
 - 🔭 I’m currently working on [DROPTEXT](https://github.com/khanyasar022/Droptext)
 - 🌱 I’m currently making projects And Polishing My DSA Skills.
