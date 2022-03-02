@@ -88,5 +88,5 @@
 
 <img alt="Yasar khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanyasar022&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=solarized-dark" />
 <br />
-<img alt="Yasar khan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&theme=noctis-minimus" />
+<img alt="Yasar khan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&theme=synthwave" />
 
