@@ -80,6 +80,8 @@
 [telegram]: https://telegram.me/yasarrkhan
 [twitter]: https://twitter.com/yasarrkhan
 
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khanyasar022&hide_border=true&theme=redical)
 
 #### My Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyasar022&layout=compact&theme=moltack)
