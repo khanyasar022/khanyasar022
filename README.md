@@ -1,76 +1,81 @@
-## Hi there, I'm Yasar Khan
-![](https://komarev.com/ghpvc/?username=khanyasar022)
+## 👋 Hi there, I'm Yasar Arfat
+![](https://komarev.com/ghpvc/?username=khanyasar022&label=Profile+Views)
 
-### I'm a BCA Student (Final year) , Full stack Developer.
+### 💻 Full Stack Developer | MERN Stack | DevOps Enthusiast | Open to Remote Roles
 
-- 🔭 I’m currently working on [DROPTEXT](https://github.com/khanyasar022/Droptext)
-- 🌱 I’m currently making projects And Polishing My DSA Skills.
-- 👯 I’m looking for an Intership or Job to showcase my skills and to learn working in a team.
-- 🥅 2022 Goals: Improving my backend Skills and To Learn About new backend Technologies.
-
-### Experience :
-- Worked as a web developer Intern at Fibzio. 
-
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][portfolio]
-[<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-[<img align="left" alt="Sabesan | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
-
-
-<br />
+I'm a passionate and experienced Full Stack Developer with **3+ years in MERN stack** development. I specialize in building scalable web applications with a strong focus on performance, usability, and DevOps best practices. I’ve worked across **social media and healthcare domains**, and I’m always eager to take on impactful projects.
 
 ---
 
-### Languages and Tools:
+### 🎯 Career Objective
+I am a results-driven ReactJS/MERN Stack Developer with 3+ years of professional experience, seeking a dynamic role where I can leverage my expertise in building scalable, high-performance web applications. I am open to opportunities across diverse industries, especially where technology creates real-world impact—such as healthcare, social platforms, or logistics. I thrive in collaborative, fast-paced environments and aim to contribute meaningfully to innovative product development while continuing to grow as a full-stack engineer.
 
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="mongo" width="26px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png">
-</code>](https://www.mongodb.com/)
-[<code>
-<img alt="redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
-</code>](https://redis.io/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
+---
+
+### 🔍 Looking For:
+A challenging role as a **ReactJS or MERN Stack Developer**, preferably in domains like **social media**, **healthcare**, or **finance**, where I can contribute meaningfully to technical problem-solving and scalable product development. I'm open to **remote** or **on-site** roles in major Indian cities.
+
+---
+
+### 🏆 Key Achievements:
+- 🚀 Built an **infinite-scroll Reels UI** using ReactJS, optimized for seamless media playback — used AWS MediaConvert for backend processing in a **social media platform**.
+- 🏥 Developed a **blood sample transportation and pathology digitization system** that integrates with WhatsApp for rural healthcare diagnostics and reporting.
+- ⚙️ Created a **custom business rules engine** to analyze medical lab data using Node.js and PostgreSQL with Azure Blob support.
+- 📡 Built a **real-time notification system** using **Server-Sent Events (SSE)** to enable instant lab updates and alerts.
+
+---
+
+### 💼 Professional Experience
+
+#### 👨‍💻 Software Engineer – Full Stack  
+**IQ-Line | Jun 2024 – Present**
+- Developed a patient sample transportation platform to modernize pathology logistics in rural India.
+- Integrated a customizable business rules engine and real-time communication using SSE.
+- Core Tech: `React`, `Node.js`, `PostgreSQL`, `Redis`, `Azure`, `Docker`, `Kubernetes`
+
+#### 👨‍💻 Software Engineer  
+**SpeckyFox | Apr 2022 – Apr 2024**
+- Led development of a **Helpdesk system** and **Reels-like video app**
+- Reduced video upload load using **multipart uploads with client-side chunking**
+- Created CI/CD pipelines and implemented centralized logging via Graylog
+- Core Tech: `React`, `Node.js`, `TypeScript`, `MongoDB`, `Docker`, `AWS`
+
+#### 👨‍💻 Web Developer Intern  
+**Fibzio | Jan 2022 – Mar 2022**
+- Built full-stack modules using MERN stack during internship
+
+---
+
+### 🧰 Tech Stack
+
+#### 🔹 Languages & Frameworks:
+`JavaScript` · `TypeScript` · `Node.js` · `Express.js` · `React.js` · `SCSS` · `HTML` · `CSS`
+
+#### 🔹 Databases:
+`MongoDB` · `PostgreSQL` · `Redis` · `Mongoose`
+
+#### 🔹 DevOps & Cloud:
+`Docker` · `Kubernetes` · `AWS (EC2, S3, MediaConvert)` · `Azure Blob Storage` · `GitHub Actions` · `CI/CD`
+
+---
+
+### 📈 GitHub Stats
+
+![Yasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanyasar022&show_icons=true&count_private=true&theme=solarized-dark&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyasar022&layout=compact&theme=react&langs_count=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&theme=synthwave)
+
+---
+
+### 🌐 Connect with Me
+
+[<img align="left" alt="Portfolio" height="24px" src="https://img.icons8.com/external-flat-juicy-fish/24/external-website-web-design-and-development-flat-flat-juicy-fish.png" />][portfolio]
+[<img align="left" alt="LinkedIn" height="24px" src="https://img.icons8.com/color/48/linkedin.png" />][linkedin]
+[<img align="left" alt="Telegram" height="24px" src="https://img.icons8.com/fluency/48/telegram-app.png" />][telegram]
+[<img align="left" alt="Twitter" height="24px" src="https://img.icons8.com/color/48/twitterx--v1.png" />][twitter]
+[<img align="left" alt="Email" height="24px" src="https://img.icons8.com/fluency/48/gmail.png" />][gmail]
+
+<br />
 
 ---
 
@@ -79,16 +84,3 @@
 [gmail]: mailto:yasarfarfat7862@gmail.com
 [telegram]: https://telegram.me/yasarrkhan
 [twitter]: https://twitter.com/yasarrkhan
-
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khanyasar022&hide_border=true&theme=redical)
-
-#### My Stats 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanyasar022&layout=compact&theme=moltack)
-
-### Github Stats
-
-<img alt="Yasar khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=khanyasar022&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=solarized-dark" />
-<br />
-<img alt="Yasar khan's Github Streak Stats" src="http://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&theme=synthwave" />
-
