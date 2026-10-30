@@ -239,12 +239,11 @@ Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanyasar022&them
 
 ### 🌐 Connect With Me
 
-[`<img align="left" alt="Portfolio" height="24px" src="https://img.icons8.com/external-flat-juicy-fish/24/external-website-web-design-and-development-flat-flat-juicy-fish.png" />`{=html}](https://yasarrkhan.netlify.app/)
-[`<img align="left" alt="LinkedIn" height="24px" src="https://img.icons8.com/color/48/linkedin.png" />`{=html}](https://www.linkedin.com/in/yasarrkhan/)
-[`<img align="left" alt="Telegram" height="24px" src="https://img.icons8.com/fluency/48/telegram-app.png" />`{=html}](https://telegram.me/yasarrkhan)
-[`<img align="left" alt="Twitter" height="24px" src="https://img.icons8.com/color/48/twitterx--v1.png" />`{=html}](https://twitter.com/yasarrkhan)
-[`<img align="left" alt="Email" height="24px" src="https://img.icons8.com/fluency/48/gmail.png" />`{=html}](mailto:yasarfarfat987@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yasarrkhan.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasarrkhan/)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/yasarrkhan)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/yasarrkhan)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasarfarfat987@gmail.com)
 
-`<br />`{=html}
 
 ------------------------------------------------------------------------
